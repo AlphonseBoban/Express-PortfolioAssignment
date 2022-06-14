@@ -1,0 +1,34 @@
+{
+  "name": "portfolio",
+  "version": "1.0.2",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.8",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "requirejs": "^2.3.6"
+  },
+  "description": "Assignment1Express Portfolio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphonseBoban/Express-PortfolioAssignment.git"
+  },
+  "keywords": [
+    "COMP229",
+    "nodejs",
+    "express",
+    "MEAN"
+  ],
+  "author": "Alphonse Maria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlphonseBoban/Express-PortfolioAssignment/issues"
+  },
+  "homepage": "https://github.com/AlphonseBoban/Express-PortfolioAssignment#readme"
+}
